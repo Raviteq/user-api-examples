@@ -1,0 +1,15 @@
+{
+  "name": "adrapid-api-examples",
+  "version": "1.0.0",
+  "description": "Adrapid API examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Astudillo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-parse": "^4.15.3"
+  }
+}
